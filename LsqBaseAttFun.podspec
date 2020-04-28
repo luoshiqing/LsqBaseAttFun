@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "LsqBaseAttFun"
 
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
 
   spec.summary      = "基础延展和方法"
 
@@ -21,6 +21,6 @@ Pod::Spec.new do |spec|
  
   spec.swift_versions = "5.0"
 
-  spec.source_files  = "LsqBaseAttFun/**/*.{swift}"
+  spec.source_files  = 'LsqBaseAttFun/**/*.{swift}'
 
 end
